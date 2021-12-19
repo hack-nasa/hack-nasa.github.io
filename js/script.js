@@ -15,7 +15,7 @@ class HackNASA extends HTMLElement {
     this.innerHTML += `<br />Hacked NASA!`;
   }
   setText(percentage) {
-    this.innerHTML = `Hacking Nasa...<br />${percentage}%`;
+    this.innerHTML = `Hacking NASA...<br />${percentage}%`;
   }
 }
 
